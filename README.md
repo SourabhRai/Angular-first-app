@@ -5,6 +5,10 @@
 4. In this folder open cmd or vs code and write "ng new `app-name`"
 5. write "ng-serve" to open the app on browser
 
+**What changes to make then?**
+1. html , css , ts : 3 main files are there in the project (testing file is not necessary can be deleted)
+2. change title in ts and delete the html file
+3. write your own code in html file and start building
 
 
 # Angular-first-app
